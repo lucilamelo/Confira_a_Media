@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(229, 236, 241);    
+    margin: 0px;
+    flex-wrap: wrap;
+    justify-content: center;
+} 
+
+h2, h1{
+   text-align: center;
+   background-color: rgb(144, 200, 238);
+   margin: auto;
+   width: 80%;
+   flex-wrap: wrap;
+}
+
+.btt {
+    justify-content: center;
+    display: grid;
+    margin: 10px;
+}
+
+.btt input{
+   margin-bottom: 10px;
+}
+
+#resp{
+ text-align: center;
+}
+
